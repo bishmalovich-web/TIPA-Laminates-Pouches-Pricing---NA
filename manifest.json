@@ -1,10 +1,10 @@
 {
-  "name": "TIPA Laminates Pricing - NA",
-  "short_name": "TIPA Pricing",
+  "name": "TIPA Laminates & Pouches Pricing - NA",
+  "short_name": "TIPA Pricing NA",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0b2f24",
+  "background_color": "#f6f7ef",
   "theme_color": "#d6df35",
   "icons": [
     {
