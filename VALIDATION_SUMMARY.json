@@ -1,0 +1,8 @@
+{
+  "version": "NA-V2.2",
+  "validatedScenario": "648, 100 um, 760 mm, 20,000 m, Printed, 3-4 colors, 1 SKU, Bastin, Europe to US, GP 15%",
+  "excelUsdPerKg": 25.34,
+  "appUsdPerKg": 25.342588235294116,
+  "variancePct": 0.010214030363520088,
+  "result": "PASS within +/-3%"
+}
